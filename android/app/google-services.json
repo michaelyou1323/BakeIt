@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "879029638581",
+    "firebase_url": "https://project-f4ada-default-rtdb.firebaseio.com",
+    "project_id": "project-f4ada",
+    "storage_bucket": "project-f4ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879029638581:android:c022ad43b39adef7d3f5fc",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879029638581-0cm8fcvdldiqnj2c4h63u1ummf0l1l28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHW5dyY6QoGbOCQrBGfRJsNRR8-qTzH0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879029638581-0cm8fcvdldiqnj2c4h63u1ummf0l1l28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
